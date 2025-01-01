@@ -16,12 +16,7 @@ function App() {
         <div className="section-left">
           {<MusicPlayer getDataForLyrics={handleLyricsDataFromChild} />}
         </div>
-        <div className="section-right">
-          <Lyrics
-            trackId={dataForLyrics.trackId}
-            currentTime={dataForLyrics.currentTime}
-          />
-        </div>
+
       </div>
     </div>
   );
