@@ -29,3 +29,4 @@ ReactJS: The core framework for building the music player's user interface.
 HTML/CSS: For structuring and styling the player.
 
 JavaScript: To handle music playback and real-time lyrics synchronization.
+# AudioMemoireMaelysTitty
